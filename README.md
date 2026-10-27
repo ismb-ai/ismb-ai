@@ -1,4 +1,4 @@
-# Igor Mol
+# ismb-ai
 
 Applied AI for business · Customer analytics · Recommendation systems · Forecasting
 
